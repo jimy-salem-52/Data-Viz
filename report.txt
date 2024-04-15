@@ -1,0 +1,3 @@
+Introduction
+What is the subject and context of the project?
+We use the data of the crime rate from 2023 to 2024 in quarter 1 and 2 in Australia to 
