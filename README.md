@@ -28,8 +28,11 @@ Cases where null values in suburbs but postcodes were present shows a high case 
 Considering there were null values in postcodes while there was existant suburbs, a new dataset was introduced and for reasons of naming (such as port piri and port pirie), the datset was used to match postcodes and retreive the longitide and latitude 
 
 The offence levels are divided into three groups level 1 to 3:
+
 Level 1 was changed to only property or person
+
 Level 2 didn't seem to be as relevant to Level 3
+
 Level 3 shows more details of the crime 
 
 # Questions & Limitations
