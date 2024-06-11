@@ -14,7 +14,7 @@ It was collected from the open data site https://data.gov.au/
 
 ## Data Cleaning
 
-After the first look a the dataset the shape is made of 50123 rows
+After the first look a the dataset the shape is made of 50123 rows.
 Many null values were shown mainly in postcodes and suburbs 
 
 Some null values are existant in postcodes while they weren't existent in suburbs and vice versa and while some are existant in both
